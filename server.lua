@@ -1,5 +1,3 @@
-QBCore = nil
-
 QBCore = exports['qb-core']:GetCoreObject()
 
 RegisterServerEvent('jim-mining:MineReward')
